@@ -311,7 +311,8 @@ img.icons {
 }
 
 .footer-banner {
-    background-image: url('../images/watson-logo.svg');
+    /*background-image: url('../images/watson-logo.svg');*/
+	background-image: url('../images/favicons/android-chrome-256x256.png');
     background-position: right;
     background-repeat: no-repeat;
     background-size: 30em;
