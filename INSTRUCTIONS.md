@@ -1,4 +1,4 @@
-# Watson Hands On Labs - Visual Recognition
+<!--# Watson Hands On Labs - Visual Recognition
 
 During this lab, you will use the [Visual Recognition][visual_recognition] service to train a classifier and recognize images.
 
@@ -126,3 +126,4 @@ You have completed the Visual Recognition Lab! :bowtie:
 [wdc_services]: https://www.ibm.com/watson/products-services/
 [visual_recognition]: https://console.bluemix.net/docs/services/visual-recognition/index.html#about
 [cloud_foundry]: https://github.com/cloudfoundry/cli
+-->

@@ -1,4 +1,4 @@
-# Visual Recognition Demo
+<!--# Visual Recognition Demo
 [![Build Status](https://travis-ci.org/watson-developer-cloud/visual-recognition-nodejs.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/visual-recognition-nodejs?branch=master)
 [![codecov.io](https://codecov.io/github/watson-developer-cloud/visual-recognition-nodejs/coverage.svg?branch=master)](https://codecov.io/github/watson-developer-cloud/visual-recognition-nodejs?branch=master)
 
@@ -167,6 +167,6 @@ Deployment tracking can be disabled by removing `require('cf-deployment-tracker-
 [getting_started]: https://console.bluemix.net/docs/services/watson/index.html#about
 [node_js]: http://nodejs.org/
 [npm]: https://www.npmjs.com
-
+-->
 
 
